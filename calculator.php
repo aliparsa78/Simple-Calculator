@@ -32,8 +32,6 @@ if(isset($_POST['sub'])){
     <base href="inc">
 </head>
 <body>
-   
-
     <!-- Main Content -->
     <div class="main">
     <div class="container">
@@ -80,7 +78,6 @@ if(isset($_POST['sub'])){
         </div>
         </div>
     </div>
-
 </body>
 </html>
 
